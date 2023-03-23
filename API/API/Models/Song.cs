@@ -6,5 +6,6 @@
         public string Name { get; set; }
         public string AlbumName { get; set; }
         public string AuthorName { get; set; }
+        public Genre SongGenre { get; set; }
     }
 }

@@ -2856,7 +2856,6 @@
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3675,7 +3674,6 @@
       "path": "system.net.nameresolution/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4197,7 +4195,6 @@
       "path": "system.reflection.typeextensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5720,7 +5717,6 @@
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5826,6 +5822,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Microsoft.EntityFrameworkCore >= 3.1.32",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.32"
     ]
   },
@@ -5836,11 +5833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\peter\\ZDrive\\00014932\\Desktop\\wad\\Web-Application-Development\\API\\API\\API.csproj",
+      "projectUniqueName": "\\\\peter\\ZDrive\\00014932\\Desktop\\Web-Application-Development\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "\\\\peter\\ZDrive\\00014932\\Desktop\\wad\\Web-Application-Development\\API\\API\\API.csproj",
+      "projectPath": "\\\\peter\\ZDrive\\00014932\\Desktop\\Web-Application-Development\\API\\API\\API.csproj",
       "packagesPath": "E:\\Users\\00014932\\.nuget\\packages\\",
-      "outputPath": "\\\\peter\\ZDrive\\00014932\\Desktop\\wad\\Web-Application-Development\\API\\API\\obj\\",
+      "outputPath": "\\\\peter\\ZDrive\\00014932\\Desktop\\Web-Application-Development\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5872,6 +5869,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[3.1.32, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[3.1.32, )"
@@ -5896,7 +5897,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

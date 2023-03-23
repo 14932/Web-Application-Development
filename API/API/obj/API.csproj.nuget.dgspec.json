@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\peter\\ZDrive\\00014932\\Desktop\\wad\\Web-Application-Development\\API\\API\\API.csproj": {}
+    "\\\\peter\\ZDrive\\00014932\\Desktop\\Web-Application-Development\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "\\\\peter\\ZDrive\\00014932\\Desktop\\wad\\Web-Application-Development\\API\\API\\API.csproj": {
+    "\\\\peter\\ZDrive\\00014932\\Desktop\\Web-Application-Development\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\peter\\ZDrive\\00014932\\Desktop\\wad\\Web-Application-Development\\API\\API\\API.csproj",
+        "projectUniqueName": "\\\\peter\\ZDrive\\00014932\\Desktop\\Web-Application-Development\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "\\\\peter\\ZDrive\\00014932\\Desktop\\wad\\Web-Application-Development\\API\\API\\API.csproj",
+        "projectPath": "\\\\peter\\ZDrive\\00014932\\Desktop\\Web-Application-Development\\API\\API\\API.csproj",
         "packagesPath": "E:\\Users\\00014932\\.nuget\\packages\\",
-        "outputPath": "\\\\peter\\ZDrive\\00014932\\Desktop\\wad\\Web-Application-Development\\API\\API\\obj\\",
+        "outputPath": "\\\\peter\\ZDrive\\00014932\\Desktop\\Web-Application-Development\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.32, )"
@@ -67,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
