@@ -1,0 +1,10 @@
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+\\peter\ZDrive\00014932\My Documents\GitHub\Web-Application-Development\API\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

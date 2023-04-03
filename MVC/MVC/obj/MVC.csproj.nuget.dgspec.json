@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Test\\Downloads\\Web-Application-Development-main\\MVC\\MVC\\MVC.csproj": {}
+    "\\\\peter\\ZDrive\\00014932\\My Documents\\GitHub\\Web-Application-Development\\MVC\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Test\\Downloads\\Web-Application-Development-main\\MVC\\MVC\\MVC.csproj": {
+    "\\\\peter\\ZDrive\\00014932\\My Documents\\GitHub\\Web-Application-Development\\MVC\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Test\\Downloads\\Web-Application-Development-main\\MVC\\MVC\\MVC.csproj",
+        "projectUniqueName": "\\\\peter\\ZDrive\\00014932\\My Documents\\GitHub\\Web-Application-Development\\MVC\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "C:\\Users\\Test\\Downloads\\Web-Application-Development-main\\MVC\\MVC\\MVC.csproj",
-        "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Test\\Downloads\\Web-Application-Development-main\\MVC\\MVC\\obj\\",
+        "projectPath": "\\\\peter\\ZDrive\\00014932\\My Documents\\GitHub\\Web-Application-Development\\MVC\\MVC\\MVC.csproj",
+        "packagesPath": "E:\\Users\\00014932\\.nuget\\packages\\",
+        "outputPath": "\\\\peter\\ZDrive\\00014932\\My Documents\\GitHub\\Web-Application-Development\\MVC\\MVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "E:\\Users\\00014932\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,8 +62,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

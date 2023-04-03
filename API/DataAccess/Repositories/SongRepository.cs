@@ -43,6 +43,7 @@ namespace API.Repositories
 
         public void UpdateSong(Song song)
         {
+            song.SongGenre = _dbContext.Genres.Find(song.SongGenre.Id);
             _dbContext.Entry(song).State = EntityState.Modified;
             Save();
         }
